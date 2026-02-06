@@ -1,0 +1,8 @@
+{
+  "name": "Neuralator for PDA",
+  "description": "A specialized Wear OS simulation for Pathological Demand Avoidance support, featuring real-time behavior analysis, sensory monitoring, and low-arousal UI design.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
